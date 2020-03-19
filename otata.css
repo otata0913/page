@@ -25,7 +25,7 @@ li {
 
 .header-list li {
   float : left;
-  padding: 20px
+  padding: 25px;	
 }
 .header-list a {
    transition: color 0.3s;
